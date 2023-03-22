@@ -1,5 +1,5 @@
 # HR-Analytics
-This dashboard is interactive and can be manipulated all throughout. The dashboard analyzes various factors as to why employees are leaving based on education, gender, job satisfaction rating, department and age group.
+This Tableau dashboard is interactive and can be manipulated all throughout. The dashboard analyzes various factors as to why employees are leaving based on education, gender, job satisfaction rating, department and age group.
 
 Overall Thought Process
 
