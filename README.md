@@ -2,6 +2,7 @@
 This dashboard is interactive and can be manipulated all throughout. The dashboard analyzes various factors as to why employees are leaving based on education, gender, job satisfaction rating, department and age group.
 
 Overall Thought Process
+
 Define the Purpose and Objectives: The first step is to understand the purpose and objectives of the HR dashboard. This involves working with the HR team and other stakeholders to identify the key metrics that will be tracked and analyzed.
 
 Collect and Clean Data: Once the metrics have been identified, the next step is to collect and clean the data. This involves retrieving data from various sources and ensuring that it is accurate, complete, and formatted correctly.
