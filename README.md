@@ -7,6 +7,7 @@ Define the Purpose and Objectives: The first step is to understand the purpose a
 Collect and Clean Data: Once the metrics have been identified, the next step is to collect and clean the data. This involves retrieving data from various sources and ensuring that it is accurate, complete, and formatted correctly.
 
 Analyze the Data: With the data collected and cleaned, the next step is to analyze it. This involves using various analytical techniques to uncover insights and trends in the data.
+
 Insights Found:
 -- The highest number of employees left were in the age range of 18 to 33 years old. The amount of employees were 213 in total
 
