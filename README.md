@@ -9,6 +9,7 @@ Collect and Clean Data: Once the metrics have been identified, the next step is 
 Analyze the Data: With the data collected and cleaned, the next step is to analyze it. This involves using various analytical techniques to uncover insights and trends in the data.
 
 Insights Found:
+
 -- The highest number of employees left were in the age range of 18 to 33 years old. The amount of employees were 213 in total
 
 -- The department that had the highest attrition was Research and Development with 56.12% leaving the company which equates to 133 employees
